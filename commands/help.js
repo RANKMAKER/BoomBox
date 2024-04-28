@@ -57,13 +57,13 @@ module.exports = {
         ) 
        .setImage('https://media.discordapp.net/attachments/1129401588952354947/1231483195661352960/GLoi2SPWgAEZRjL.png?ex=662f3619&is=662de499&hm=facd39178ee4be9dafd67fff836d997caedfb697d5b9a8b2c4fd0eb6f2f88e69&=&format=webp&quality=lossless')
       const button1 = new ButtonBuilder()
-        .setLabel('YouTube')
-        .setURL('https://www.youtube.com/channel/UCcjhyegbRmHxBD15FTa4dyQ')
+        .setLabel('Roblox')
+        .setURL('https://www.roblox.com/users/471034040/profile')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/2wVFGjZqQw')
+        .setURL('https://discord.gg/lcr')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
